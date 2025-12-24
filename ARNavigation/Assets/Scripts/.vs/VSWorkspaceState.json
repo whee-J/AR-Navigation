@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AR",
+    "\\Core",
+    "\\Location",
+    "\\Navigation",
+    "\\Route",
+    "\\UI"
+  ],
+  "SelectedNode": "\\Route\\RoutePoint.cs",
+  "PreviewInSolutionExplorer": false
+}

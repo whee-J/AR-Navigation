@@ -1,0 +1,26 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider / VS
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Crash reports
+sysinfo.txt
+
+# Android
+.gradle/
